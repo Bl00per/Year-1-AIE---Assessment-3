@@ -1,0 +1,39 @@
+﻿  aligned_bounding_box.cpp
+  base_conversion.cpp
+c:\users\s172172\desktop\year 1 aie - assessment 3\asessment 3\maths_library\base_conversion.cpp(9): warning C4018: '<': signed/unsigned mismatch
+c:\users\s172172\desktop\year 1 aie - assessment 3\asessment 3\maths_library\base_conversion.cpp(13): warning C4267: 'argument': conversion from 'size_t' to 'char', possible loss of data
+  circle.cpp
+  collider.cpp
+  collision_manager.cpp
+  line.cpp
+  Matrix3.cpp
+c:\users\s172172\desktop\year 1 aie - assessment 3\asessment 3\maths_library\matrix3.cpp(70): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\s172172\desktop\year 1 aie - assessment 3\asessment 3\maths_library\matrix3.cpp(71): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\s172172\desktop\year 1 aie - assessment 3\asessment 3\maths_library\matrix3.cpp(72): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\s172172\desktop\year 1 aie - assessment 3\asessment 3\maths_library\matrix3.cpp(73): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\s172172\desktop\year 1 aie - assessment 3\asessment 3\maths_library\matrix3.cpp(78): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\s172172\desktop\year 1 aie - assessment 3\asessment 3\maths_library\matrix3.cpp(79): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\s172172\desktop\year 1 aie - assessment 3\asessment 3\maths_library\matrix3.cpp(80): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\s172172\desktop\year 1 aie - assessment 3\asessment 3\maths_library\matrix3.cpp(81): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\s172172\desktop\year 1 aie - assessment 3\asessment 3\maths_library\matrix3.cpp(86): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\s172172\desktop\year 1 aie - assessment 3\asessment 3\maths_library\matrix3.cpp(87): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\s172172\desktop\year 1 aie - assessment 3\asessment 3\maths_library\matrix3.cpp(88): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\s172172\desktop\year 1 aie - assessment 3\asessment 3\maths_library\matrix3.cpp(89): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Matrix4.cpp
+c:\users\s172172\desktop\year 1 aie - assessment 3\asessment 3\maths_library\matrix4.cpp(80): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\s172172\desktop\year 1 aie - assessment 3\asessment 3\maths_library\matrix4.cpp(81): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\s172172\desktop\year 1 aie - assessment 3\asessment 3\maths_library\matrix4.cpp(82): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\s172172\desktop\year 1 aie - assessment 3\asessment 3\maths_library\matrix4.cpp(83): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\s172172\desktop\year 1 aie - assessment 3\asessment 3\maths_library\matrix4.cpp(88): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\s172172\desktop\year 1 aie - assessment 3\asessment 3\maths_library\matrix4.cpp(89): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\s172172\desktop\year 1 aie - assessment 3\asessment 3\maths_library\matrix4.cpp(90): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\s172172\desktop\year 1 aie - assessment 3\asessment 3\maths_library\matrix4.cpp(91): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\s172172\desktop\year 1 aie - assessment 3\asessment 3\maths_library\matrix4.cpp(96): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\s172172\desktop\year 1 aie - assessment 3\asessment 3\maths_library\matrix4.cpp(97): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\s172172\desktop\year 1 aie - assessment 3\asessment 3\maths_library\matrix4.cpp(98): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\s172172\desktop\year 1 aie - assessment 3\asessment 3\maths_library\matrix4.cpp(99): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Vector2.cpp
+  Vector3.cpp
+  Vector4.cpp
+  Generating Code...
+  maths_library.vcxproj -> C:\Users\s172172\Desktop\Year 1 AIE - Assessment 3\Asessment 3\Debug\maths_library.lib
